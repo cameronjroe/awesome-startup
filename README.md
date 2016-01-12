@@ -33,6 +33,8 @@ A curated list of awesome books, videos, courses and resources about making a st
 # Videos and Courses
 
 - [ ] [How to start a startup (course)](https://startupclass.co/course/how-to-start-a-startup)
+- [ ] [How to start a startup (videos)](http://startupclass.samaltman.com/)
+- [ ] [How to start a startup (readings)](http://startupclass.samaltman.com/lists/readings/)
 - [ ] [Steve Jobs' Vision of the World (video)](https://www.youtube.com/watch?feature=player_embedded&v=UvEiSa6_EPA)
 - [ ] [This startup founder filmed her struggles (video)](https://giveit100.com/@100/9b924t)
 * [ ] [Startup Talks](http://startuptalks.tv/)

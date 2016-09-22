@@ -19,11 +19,19 @@ A curated list of awesome books, videos, courses and resources about making a st
 *Startups*
 - [x] [Will It Fly? by Thomas K. McKnight](http://www.amazon.com/exec/obidos/ASIN/0130462217/)
 - [x] [The Lean Startup by Eric Ries](http://www.amazon.com/Lean-Startup-Innovation-Successful-ebook/dp/B004J4XGN6/)
-- [x] [100 Startup]()
+- [x] [The Lean Startup](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
+- [x] [The $100 Startup by Chris Guillebeau](http://www.amazon.com/dp/0307951529)
 
 *Success*
 - [x] [The Compound Effect]()
 - [x] [Think and Grow Rich]()
+- [x] [Outliers]()
+
+*Personal Growth*
+- [x] [The Dip]()
+
+*Productivity*
+- [x] [Getting Things Done]()
 
 *Leadership*
 - [x] [7 Habits of Highly Effective People]()
@@ -36,81 +44,108 @@ A curated list of awesome books, videos, courses and resources about making a st
 
 *Finances*
 
-### Q3
+*Design*
+- [x] [CSS3 For Web Designers]()
+
+### 2016 - Q3
 - [ ] [The Personal MBA]()
 - [ ] [The Freelancer's Bible]()
-
-### Q4
-- [ ] [Outliers]()
-- [ ] [Hungry Startup]()
-- [ ] [The One Thing]()
 - [ ] [Ask]()
-- [ ] [Awaken the Giant Within]()
-- [ ] [Do The Kind Thing]()
-- [ ] [Disrupt You]()
-- [ ] [Design of Everyday Things]()
-- [ ] [Elon Musk]()
-- [ ] [Hatching Twitter]()
-- [ ] [Influence]()
-- [ ] [Man’s Search For Meaning]()
-- [ ] [Money Master the Game]()
-- [ ] [On Intelligence]()
-- [ ] [Permission Marketing]()
-- [ ] [Psych 101]()
-- [ ] [Relationship Momentum]()
-- [ ] [Relentless]()
-- [ ] [Rich Dad, Poor Dad]()
-- [ ] [Sound Recording]()
-- [ ] [Steve Jobs]()
-- [ ] [The 4 Hour Work Week]()
-- [ ] [The 21 Indispensable Qualities of A Leader]()
-- [ ] [The Alchemist]()
-- [ ] [The Complete Investor]()
-- [ ] [The Creative Brain]()
-- [ ] [The Essential Drucker]()
-- [ ] [The Game]()
-- [ ] [The Innovator’s Dilemmas]()
-- [ ] [The Magic of Thinking Big]()
-- [ ] [The Millionaire Mind]()
-- [ ] [The Musicians Guide to Licensing Music]()
-- [ ] [The Dip]()
-- [ ] [Getting Things Done]()
-- [ ] [CSS3 For Web Designers]()
-- [ ] [You Can Be An Optimist]()
 - [ ] [You’re My Favorite Client]()
-- [ ] [War of Art]()
-- [ ] [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
+
+### 2016 - Q4
+- [ ] [Awaken the Giant Within]()
+- [ ] [Disrupt You]()
+- [ ] [Man’s Search For Meaning]()
+- [ ] [The Magic of Thinking Big]()
+
+### 2017 - Q1
+- [ ] [Hatching Twitter]()
+- [ ] [Hungry Startup]()
+- [ ] [Influence]()
+- [ ] [The One Thing]()
+- [ ] [Start Your Own Business by Rieva Lesonsky](http://www.amazon.com/exec/obidos/ISBN=1599180812/dynamiccoverlettA/)
+
+### 2017 - Q2
 - [ ] [The Founder's Dilemmas by Noam Wasserman](http://www.amazon.com/The-Founders-Dilemmas-Entrepreneurship-ebook/dp/B007AIXKUM/) - Drawing on a decade of research, Noam Wasserman reveals the common pitfalls founders face and how to avoid them.
+- [ ] [The Startup Owner's Manual by Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/) - The Startup Owner's Manual lays out the best practices, lessons and tips that have swept the startup world, offering a wealth of proven advice and information for entrepreneurs of all stripes.
+- [ ] [Running Lean - Ash Maurya (book)](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
+
+### 2017 - Q3
+- [ ] [Relentless]()
+- [ ] [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
+- [ ] [War of Art]()
+- [ ] [The Innovator’s Dilemmas]()
+
+### 2017 - Q4
+- [ ] [Elon Musk]()
+- [ ] [Steve Jobs]()
+- [ ] [The Creative Brain]()
+- [ ] [On Intelligence]()
+- [ ] [Psych 101]()
+
+### 2018 - Q1
+- [ ] [Start Run & Grow a Successful Small Business by Toolkit Media Group](http://www.amazon.com/exec/obidos/ASIN/0808017942/)
+- [ ] [The Four Steps to the Epiphany - Steve Blank (book)](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
+- [ ] [Startup from the Ground Up by Cynthia Kocialski](http://www.amazon.com/dp/1453746633)
+- [ ] [The Business Start-Up Kit by Steven D. Strauss](http://www.amazon.com/exec/obidos/ASIN/0793160278/)
+- [ ] [The Art of the Start by Guy Kawasaki](http://www.amazon.com/dp/1400160634)
+
+### 2018 - Q2
+- [ ] [The Millionaire Mind]()
+- [ ] [Money Master the Game]()
+- [ ] [Rich Dad, Poor Dad]()
+- [ ] [Million Dollar Consulting by Alan Weiss](http://www.amazon.com/exec/obidos/ASIN/0071622101/)
+
+### 2018 - Q3
+- [ ] [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
+- [ ] [Rework by Jason Fried and David Hansson](http://www.amazon.com/dp/0307463745)
+
+### 2018 - Q4
+- [ ] [The 21 Indispensable Qualities of A Leader]()
+- [ ] [Do The Kind Thing]()
+- [ ] [Relationship Momentum]()
+- [ ] [The Essential Drucker]()
+
+### 2019 - Q1
+- [ ] [Founders at Work by Jessica Livingston](http://www.amazon.com/dp/1430210788) - [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
+- [ ] [Design of Everyday Things]()
+- [ ] [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
+- [ ] [Lucky Or Smart? by Bo Peabody](http://www.amazon.com/exec/obidos/ASIN/1439210101/)
+
+### 2019 - Q2
+- [ ] [The Fire Starter Sessions by Danielle LaPorte](http://www.amazon.com/exec/obidos/ASIN/030795210X/)
+- [ ] [The Barefoot Executive by Carrie Wilkerson](http://www.amazon.com/exec/obidos/ASIN/B00AK3YQUW/)
+- [ ] [Escape from Cubicle Nation by Pamela Slim](http://www.amazon.com/dp/B003VYBEK2)
+- [ ] [The 4-Hour Workweek](http://www.amazon.com/dp/0786158964)
+
+### 2019 - Q3
+- [ ] [The Complete Investor]()
+- [ ] [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
+- [ ] [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
+- [ ] [The Alchemist]()
+
+### 2019 - Q4
+- [ ] [The Business Planning Guide by David H. Bangs Jr.](http://www.amazon.com/dp/079315409X)
+- [ ] [The E-Myth Revisited by Michael Gerber](http://www.amazon.com/dp/0887307280)
+- [ ] [Flying Without a Net by Thomas J. DeLong](http://www.amazon.com/dp/142216229X)
+
+### 2020 - Q1
+- [ ] [Quotes / Lessons / Videos for Entrepreneurs and Startups](http://www.blockshelf.com/)
 - [ ] [For Entrepreneurs](http://powerbooks.strikingly.com/)
 - [ ] [Startup Notes](http://startupnotes.org/#page/1)
 - [ ] [Startup Edition](http://startupedition.com/)
-- [ ] [Hooked: How to Build Habit-Forming Products](http://amzn.com/1591847788)
-- [ ] [Business Model Generation by Alexander Osterwalder](http://www.amazon.com/Business-Model-Generation-Visionaries-ebook/dp/B00BD6RFFS/)
-- [ ] [The Startup Owner's Manual by Steve Blank](http://www.amazon.com/Startup-Owners-Manual-Step--ebook/dp/B009UMTMKS/) - The Startup Owner's Manual lays out the best practices, lessons and tips that have swept the startup world, offering a wealth of proven advice and information for entrepreneurs of all stripes.
-- [ ] [Running Lean by Ash Maurya](http://www.amazon.com/Running-Lean-Iterate-Series-ebook/dp/B006UKFFE0/) - A practical guide to the Lean Startup
-- [ ] [Founders At Work by Jessica Livingston](http://www.amazon.com/Founders-Work-Stories-Startups-ebook/dp/B009IXMK4O/) - A collection of interviews about the early days of popular technology companies
-- [ ] [Venture Deals by Brad Feld and Jason Mendelson](http://www.amazon.com/Venture-Deals-Smarter-Capitalist-ebook/dp/B00AO2PWOI/)
-- [ ] [Venture Capitalists at Work by Tarang Shah and Sheetal Shah](http://www.amazon.com/Venture-Capitalists-Work-Billion-Dollar-ebook/dp/B006C9EM1Q/) - Venture Capitalists at Work: How VCs Identify and Build Billion-Dollar Successes offers unparalleled insights into the funding and management of companies like YouTube, Zappos, Twitter, Starent, Facebook, and Groupon. The venture capitalists profiled—among the best in the business—also reveal how they identify promising markets, products, and entrepreneurs. 
-- [ ] [Traction: A Startup Guide to Getting Customers](http://www.amazon.com/Traction-Startup-Guide-Getting-Customers-ebook/dp/B00N06Y2DW/)
-- [ ] [Lucky Or Smart? by Bo Peabody](http://www.amazon.com/exec/obidos/ASIN/1439210101/)
-- [ ] [The Fire Starter Sessions by Danielle LaPorte](http://www.amazon.com/exec/obidos/ASIN/030795210X/)
-- [ ] [Million Dollar Consulting by Alan Weiss](http://www.amazon.com/exec/obidos/ASIN/0071622101/)
-- [ ] [Start Run & Grow a Successful Small Business by Toolkit Media Group](http://www.amazon.com/exec/obidos/ASIN/0808017942/)
-- [ ] [The Barefoot Executive by Carrie Wilkerson](http://www.amazon.com/exec/obidos/ASIN/B00AK3YQUW/)
-- [ ] [The Business Start-Up Kit by Steven D. Strauss](http://www.amazon.com/exec/obidos/ASIN/0793160278/)
-- [ ] [Start Your Own Business by Rieva Lesonsky](http://www.amazon.com/exec/obidos/ISBN=1599180812/dynamiccoverlettA/)
-- [ ] [The Art of the Start by Guy Kawasaki](http://www.amazon.com/dp/1400160634)
-- [ ] [Escape from Cubicle Nation by Pamela Slim](http://www.amazon.com/dp/B003VYBEK2)
-- [ ] [The Business Planning Guide by David H. Bangs Jr.](http://www.amazon.com/dp/079315409X)
-- [ ] [Startup from the Ground Up by Cynthia Kocialski](http://www.amazon.com/dp/1453746633)
-- [ ] [The $100 Startup by Chris Guillebeau](http://www.amazon.com/dp/0307951529)
-- [ ] [The E-Myth Revisited by Michael Gerber](http://www.amazon.com/dp/0887307280)
-- [ ] [The Startup Owner’s Manual by Steve Blank](http://www.amazon.com/dp/0984999302)
-- [ ] [Rework by Jason Fried and David Hansson](http://www.amazon.com/dp/0307463745)
-- [ ] [The 4-Hour Workweek by Timothy Ferriss](http://www.amazon.com/dp/0786158964)
-- [ ] [Flying Without a Net by Thomas J. DeLong](http://www.amazon.com/dp/142216229X)
-- [ ] [Founders at Work by Jessica Livingston](http://www.amazon.com/dp/1430210788)
 
+### 2020 - Q2
+- [ ] [The Game]()
+- [ ] [Permission Marketing]()
+- [ ] [You Can Be An Optimist]()
+
+### 2020 - Q3
+- [ ] [Sound Recording]()
+- [ ] [The Musicians Guide to Licensing Music]()
+
+### 2020 - Q4
 
 # Videos and Courses
 
@@ -132,9 +167,6 @@ A curated list of awesome books, videos, courses and resources about making a st
 - [ ] [Foundation 37 // David Byttow](https://www.youtube.com/watch?feature=player_embedded&v=7PmBk7hgUqg)
 
 # General
-- [The Lean Startup - Eric Ries (book)](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898)
-- [Running Lean - Ash Maurya (book)](http://www.amazon.com/Running-Lean-Iterate-Works-Series/dp/1449305172)
-- [The Four Steps to the Epiphany - Steve Blank (book)](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
 - [Sam Altman's blog](http://blog.samaltman.com/)
   - [Startup advice, briefly](http://blog.samaltman.com/startup-advice-briefly)
 - [Paul Graham's essays](http://www.paulgraham.com/articles.html)

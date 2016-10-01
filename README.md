@@ -47,16 +47,17 @@ A curated list of awesome books, videos, courses and resources about making a st
 *Design*
 - [x] [CSS3 For Web Designers]()
 
-### 2016 - Q3
+### 2016 - Q4
+**October**
 - [ ] [The Personal MBA]()
 - [ ] [The Freelancer's Bible]()
 - [ ] [Ask]()
+**November**
 - [ ] [You’re My Favorite Client]()
-
-### 2016 - Q4
-- [ ] [Awaken the Giant Within]()
 - [ ] [Disrupt You]()
 - [ ] [Man’s Search For Meaning]()
+**December**
+- [ ] [Awaken the Giant Within]()
 - [ ] [The Magic of Thinking Big]()
 
 ### 2017 - Q1
